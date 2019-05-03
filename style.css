@@ -1,0 +1,16 @@
+* {
+    border: 1px solid burlywood;
+}
+.navigation li{
+    list-style: none;
+    display: inline;
+    }
+.header-top{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+/* --- Block page-news-------------- */
+.page-news{
+    display: grid;
+grid-template-columns: 1fr 1fr;
+}
